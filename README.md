@@ -1,6 +1,6 @@
 # ViajaYa API - Sistema de Transporte Compartido
 
-**Autor:** Santiago Romero  
+**Autor:** Santiago Romero - Ricardo Palomino
 
 ---
 
